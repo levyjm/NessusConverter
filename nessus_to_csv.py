@@ -1,4 +1,5 @@
-"""This module does"""
+"""This script converts all Nessus files in a direcotry 
+into one CSV file."""
 #!/usr/bin/env python3
 
 # pylint: disable=I0011
